@@ -1,0 +1,16 @@
+numpy
+pandas
+heapq_max
+opencv-python
+pillow
+starlette
+fastapi
+requests
+uvicorn
+torch
+torchvision
+transformers
+datasets
+ultralytics
+googletrans
+pydantic
